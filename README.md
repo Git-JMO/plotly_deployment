@@ -9,4 +9,4 @@
    * Deliverable 3: Gauge Chart
    * Deliverable 4: Customized Dashboard
 ### Below is the link to the Interactive Dashboard:
-    * https://git-jmo.github.io/plotly_deployment/
+     https://git-jmo.github.io/plotly_deployment/
