@@ -2,9 +2,11 @@ body {
     color: black;
 }
 .jumbotron {
-  background-image: url("bacteria_2.jpg");
+  background-image: url("bacteria.jpg");
   background-size: 100% 100%;
   text-align: center;
+  color:darkblue;
+  text-shadow: 2px 2px #333;
 }
 
 .topnav {
@@ -33,7 +35,7 @@ body {
   background-color: aliceblue;
 }
 #row2 {
-    background-color: lavender;
+    background-color: azure;
 }
 
 
